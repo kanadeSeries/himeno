@@ -25,8 +25,9 @@
       "additionalSetColors": []
     },
     "scrollAnimation": "",
-    "favicon": "",
-    "uniqCompNum": 14
+    "favicon": "@PROJECT_PATH@/assets/images/tim20170714221143-128x128.png",
+    "uniqCompNum": 14,
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -368,7 +369,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "HIMENO STUDIO",
+          "title": "<span style=\"font-weight: normal;\">HIMENO STUDIO</span>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
